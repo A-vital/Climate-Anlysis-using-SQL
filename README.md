@@ -1,5 +1,4 @@
-
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
+<h1> Climate Analysis <h1>
 
 ## Step 1 - Climate Analysis and Exploration
 
